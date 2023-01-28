@@ -1,0 +1,82 @@
+{
+	"textures": [
+		{
+			"image": "atlas",
+			"format": "RGBA8888",
+			"size": {
+				"w": 854,
+				"h": 1753
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "atmos",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 850,
+						"h": 850
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 850,
+						"h": 850
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 850,
+						"h": 850
+					}
+				},
+				{
+					"filename": "earth",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 850,
+						"h": 850
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 850,
+						"h": 850
+					},
+					"frame": {
+						"x": 2,
+						"y": 856,
+						"w": 850,
+						"h": 850
+					}
+				},
+				{
+					"filename": "glyph",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 41
+					},
+					"frame": {
+						"x": 2,
+						"y": 1710,
+						"w": 54,
+						"h": 41
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

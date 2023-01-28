@@ -1,0 +1,229 @@
+{
+	"textures": [
+		{
+			"image": "atlas",
+			"format": "RGBA8888",
+			"size": {
+				"w": 308,
+				"h": 316
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cloud_03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 86
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 150,
+						"h": 86
+					}
+				},
+				{
+					"filename": "cloud_05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 71
+					},
+					"frame": {
+						"x": 2,
+						"y": 92,
+						"w": 150,
+						"h": 71
+					}
+				},
+				{
+					"filename": "cloud_09",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 68
+					},
+					"frame": {
+						"x": 156,
+						"y": 2,
+						"w": 150,
+						"h": 68
+					}
+				},
+				{
+					"filename": "cloud_08",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 63
+					},
+					"frame": {
+						"x": 156,
+						"y": 74,
+						"w": 150,
+						"h": 63
+					}
+				},
+				{
+					"filename": "cloud_07",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 53
+					},
+					"frame": {
+						"x": 156,
+						"y": 141,
+						"w": 150,
+						"h": 53
+					}
+				},
+				{
+					"filename": "cloud_02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 52
+					},
+					"frame": {
+						"x": 2,
+						"y": 167,
+						"w": 150,
+						"h": 52
+					}
+				},
+				{
+					"filename": "cloud_06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 49
+					},
+					"frame": {
+						"x": 156,
+						"y": 198,
+						"w": 150,
+						"h": 49
+					}
+				},
+				{
+					"filename": "cloud_00",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 46
+					},
+					"frame": {
+						"x": 2,
+						"y": 223,
+						"w": 150,
+						"h": 46
+					}
+				},
+				{
+					"filename": "cloud_04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 43
+					},
+					"frame": {
+						"x": 156,
+						"y": 251,
+						"w": 150,
+						"h": 43
+					}
+				},
+				{
+					"filename": "cloud_01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 41
+					},
+					"frame": {
+						"x": 2,
+						"y": 273,
+						"w": 150,
+						"h": 41
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

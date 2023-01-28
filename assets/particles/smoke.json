@@ -1,0 +1,103 @@
+{
+	"textures": [
+		{
+			"image": "smoke",
+			"format": "RGBA8888",
+			"size": {
+				"w": 197,
+				"h": 191
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "smoke_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 92
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 95,
+						"h": 92
+					}
+				},
+				{
+					"filename": "smoke_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 91
+					},
+					"frame": {
+						"x": 2,
+						"y": 98,
+						"w": 95,
+						"h": 91
+					}
+				},
+				{
+					"filename": "smoke_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 87
+					},
+					"frame": {
+						"x": 101,
+						"y": 2,
+						"w": 94,
+						"h": 87
+					}
+				},
+				{
+					"filename": "smoke_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 71
+					},
+					"frame": {
+						"x": 101,
+						"y": 93,
+						"w": 80,
+						"h": 71
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
