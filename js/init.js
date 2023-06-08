@@ -4,6 +4,9 @@ var config = {
     backgroundColor: consts.canvas.colour, disableContextMenu: true,
     height: consts.canvas.height, width: consts.canvas.width,
     fps: { target: 60 },
+    input: {
+        gamepad: true
+    },
     physics: {
         default: 'matter',
         matter: { debug: vars.DEBUG, gravity: { y: 0 } }
@@ -57,7 +60,7 @@ function update() {
 
     if (!gV.player1 && !gV.player2) return;
 
-    let alive = 0; gV.player1.alive && alive++; (gV.player2 && gV.player2.alive) && alive++;
+    let alive = 0; gV.player1.playerVars.alive && alive++; (gV.player2 && gV.player2.playerVars.alive) && alive++;
     if (!alive) return;
 
     gV.level && gV.level.update();

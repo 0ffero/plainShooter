@@ -4,93 +4,93 @@
 			"image": "atlas",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1300,
-				"h": 1040
+				"w": 1345,
+				"h": 1250
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "damaged_shoot_0",
+					"filename": "player1_movement_icons",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 256,
-						"h": 256
+						"w": 299,
+						"h": 229
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 256,
-						"h": 256
+						"w": 299,
+						"h": 229
 					},
 					"frame": {
 						"x": 2,
 						"y": 2,
-						"w": 256,
-						"h": 256
+						"w": 299,
+						"h": 229
 					}
 				},
 				{
-					"filename": "default_down",
+					"filename": "player2_movement_icons",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 256,
-						"h": 256
+						"w": 299,
+						"h": 229
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 256,
-						"h": 256
-					},
-					"frame": {
-						"x": 262,
-						"y": 2,
-						"w": 256,
-						"h": 256
-					}
-				},
-				{
-					"filename": "damaged_death_2",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 256,
-						"h": 256
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 256,
-						"h": 256
+						"w": 299,
+						"h": 229
 					},
 					"frame": {
 						"x": 2,
-						"y": 262,
-						"w": 256,
-						"h": 256
+						"y": 235,
+						"w": 299,
+						"h": 229
 					}
 				},
 				{
-					"filename": "damaged_death_3",
+					"filename": "rocket_explosion_a",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 256,
-						"h": 256
+						"w": 258,
+						"h": 260
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 256,
-						"h": 256
+						"w": 258,
+						"h": 260
 					},
 					"frame": {
-						"x": 262,
-						"y": 262,
-						"w": 256,
-						"h": 256
+						"x": 305,
+						"y": 2,
+						"w": 258,
+						"h": 260
+					}
+				},
+				{
+					"filename": "rocket_explosion_b",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 258,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 258,
+						"h": 260
+					},
+					"frame": {
+						"x": 305,
+						"y": 266,
+						"w": 258,
+						"h": 260
 					}
 				},
 				{
@@ -108,8 +108,8 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 522,
-						"y": 2,
+						"x": 2,
+						"y": 468,
 						"w": 256,
 						"h": 256
 					}
@@ -129,8 +129,8 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 522,
-						"y": 262,
+						"x": 567,
+						"y": 2,
 						"w": 256,
 						"h": 256
 					}
@@ -150,8 +150,8 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 2,
-						"y": 522,
+						"x": 567,
+						"y": 262,
 						"w": 256,
 						"h": 256
 					}
@@ -171,14 +171,14 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 262,
+						"x": 567,
 						"y": 522,
 						"w": 256,
 						"h": 256
 					}
 				},
 				{
-					"filename": "damaged_death_1",
+					"filename": "damaged_shoot_0",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -192,8 +192,8 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 522,
-						"y": 522,
+						"x": 2,
+						"y": 728,
 						"w": 256,
 						"h": 256
 					}
@@ -213,8 +213,8 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 782,
-						"y": 2,
+						"x": 262,
+						"y": 530,
 						"w": 256,
 						"h": 256
 					}
@@ -234,8 +234,8 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 782,
-						"y": 262,
+						"x": 827,
+						"y": 2,
 						"w": 256,
 						"h": 256
 					}
@@ -255,14 +255,14 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 782,
-						"y": 522,
+						"x": 827,
+						"y": 262,
 						"w": 256,
 						"h": 256
 					}
 				},
 				{
-					"filename": "damaged_death_0",
+					"filename": "damaged_death_1",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -276,8 +276,8 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 2,
-						"y": 782,
+						"x": 827,
+						"y": 522,
 						"w": 256,
 						"h": 256
 					}
@@ -297,14 +297,35 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 262,
-						"y": 782,
+						"x": 2,
+						"y": 988,
 						"w": 256,
 						"h": 256
 					}
 				},
 				{
 					"filename": "default_up",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"frame": {
+						"x": 262,
+						"y": 790,
+						"w": 256,
+						"h": 256
+					}
+				},
+				{
+					"filename": "damaged_death_0",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -325,7 +346,7 @@
 					}
 				},
 				{
-					"filename": "shoot_1",
+					"filename": "default_down",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -346,6 +367,48 @@
 					}
 				},
 				{
+					"filename": "damaged_death_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"frame": {
+						"x": 1087,
+						"y": 2,
+						"w": 256,
+						"h": 256
+					}
+				},
+				{
+					"filename": "shoot_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"frame": {
+						"x": 1087,
+						"y": 262,
+						"w": 256,
+						"h": 256
+					}
+				},
+				{
 					"filename": "shoot_0",
 					"rotated": false,
 					"trimmed": false,
@@ -360,8 +423,29 @@
 						"h": 256
 					},
 					"frame": {
+						"x": 1087,
+						"y": 522,
+						"w": 256,
+						"h": 256
+					}
+				},
+				{
+					"filename": "damaged_death_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"frame": {
 						"x": 1042,
-						"y": 2,
+						"y": 782,
 						"w": 256,
 						"h": 256
 					}
@@ -381,10 +465,31 @@
 						"h": 130
 					},
 					"frame": {
-						"x": 1042,
-						"y": 262,
+						"x": 262,
+						"y": 1050,
 						"w": 209,
 						"h": 130
+					}
+				},
+				{
+					"filename": "rocket_explosion_c",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 199,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 199,
+						"h": 202
+					},
+					"frame": {
+						"x": 522,
+						"y": 1042,
+						"w": 199,
+						"h": 202
 					}
 				},
 				{
@@ -402,35 +507,140 @@
 						"h": 123
 					},
 					"frame": {
-						"x": 1042,
-						"y": 396,
+						"x": 725,
+						"y": 1042,
 						"w": 185,
 						"h": 123
 					}
 				},
 				{
-					"filename": "rocket_b_0",
+					"filename": "icon_singleshot_p1",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 52,
-						"h": 14
+						"w": 64,
+						"h": 64
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 52,
-						"h": 14
+						"w": 64,
+						"h": 64
 					},
 					"frame": {
-						"x": 1231,
-						"y": 396,
-						"w": 52,
-						"h": 14
+						"x": 262,
+						"y": 1184,
+						"w": 64,
+						"h": 64
 					}
 				},
 				{
-					"filename": "rocket_b_1",
+					"filename": "icon_singleshot_p2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 64
+					},
+					"frame": {
+						"x": 330,
+						"y": 1184,
+						"w": 64,
+						"h": 64
+					}
+				},
+				{
+					"filename": "icon_tripleshot_p1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 64
+					},
+					"frame": {
+						"x": 398,
+						"y": 1184,
+						"w": 64,
+						"h": 64
+					}
+				},
+				{
+					"filename": "icon_tripleshot_p2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 64
+					},
+					"frame": {
+						"x": 725,
+						"y": 1169,
+						"w": 64,
+						"h": 64
+					}
+				},
+				{
+					"filename": "icon_doubleshot_p1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 64
+					},
+					"frame": {
+						"x": 793,
+						"y": 1169,
+						"w": 64,
+						"h": 64
+					}
+				},
+				{
+					"filename": "icon_doubleshot_p2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 64
+					},
+					"frame": {
+						"x": 861,
+						"y": 1169,
+						"w": 64,
+						"h": 64
+					}
+				},
+				{
+					"filename": "rocket_c_1",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -444,8 +654,8 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1231,
-						"y": 414,
+						"x": 466,
+						"y": 1184,
 						"w": 52,
 						"h": 14
 					}
@@ -465,14 +675,14 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1231,
-						"y": 432,
+						"x": 466,
+						"y": 1202,
 						"w": 52,
 						"h": 14
 					}
 				},
 				{
-					"filename": "rocket_c_1",
+					"filename": "rocket_b_1",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -486,8 +696,29 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1231,
-						"y": 450,
+						"x": 466,
+						"y": 1220,
+						"w": 52,
+						"h": 14
+					}
+				},
+				{
+					"filename": "rocket_b_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 14
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 14
+					},
+					"frame": {
+						"x": 914,
+						"y": 1042,
 						"w": 52,
 						"h": 14
 					}
@@ -507,8 +738,8 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1231,
-						"y": 468,
+						"x": 914,
+						"y": 1060,
 						"w": 52,
 						"h": 14
 					}
@@ -528,8 +759,8 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1231,
-						"y": 486,
+						"x": 914,
+						"y": 1078,
 						"w": 52,
 						"h": 14
 					}
@@ -549,8 +780,8 @@
 						"h": 11
 					},
 					"frame": {
-						"x": 1255,
-						"y": 262,
+						"x": 725,
+						"y": 1237,
 						"w": 31,
 						"h": 11
 					}
